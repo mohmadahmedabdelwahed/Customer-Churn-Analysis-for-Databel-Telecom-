@@ -15,6 +15,15 @@ This project aimed to analyse customer churn at Databel Telecom using Power Quer
 2. Increase long-term customer retention by incentivizing transitions away from month-to-month contracts, which currently show the highest churn rate (51%). 
 3. Strengthen customer support, particularly for older customer segments, who show elevated churn rates and higher service interaction levels (average 2.4 calls per churned customer vs 0.37 for retained customers). Customer service attitude was the third most cited reason for churn (11.3%).
 
+![Image Alt](https://github.com/mohmadahmedabdelwahed/Customer-Churn-Analysis-for-Databel-Telecom-/blob/f66a8cf782777c82234a59d5f57e77cccafded32/1.%20Overview.png)
+
+![Image Alt](https://github.com/mohmadahmedabdelwahed/Customer-Churn-Analysis-for-Databel-Telecom-/blob/f66a8cf782777c82234a59d5f57e77cccafded32/2.Age%20Groups.png)
+
+![Image Alt](https://github.com/mohmadahmedabdelwahed/Customer-Churn-Analysis-for-Databel-Telecom-/blob/f66a8cf782777c82234a59d5f57e77cccafded32/3.%20Payment%2C%20Contract%20%26%20Extra%20Charges.png)
+
+
+![Image Alt](https://github.com/mohmadahmedabdelwahed/Customer-Churn-Analysis-for-Databel-Telecom-/blob/f66a8cf782777c82234a59d5f57e77cccafded32/4.%20Insights.png)
+
 ## Business Problem: 
 
 To understand why customers are leaving and identify strategic actions to reduce the churn rate and improve customer lifetime value. 
